@@ -1,0 +1,16 @@
+Overview
+This folder contains reference images for the Solar Panel AI Assistant, categorized for accurate responses.
+
+Categories
+1️⃣ Solar Panel Technology – Panel types, efficiency, innovations
+2️⃣ Installation – Procedures, mounting, wiring, safety
+3️⃣ Maintenance – Checklists, cleaning, issue fixes
+4️⃣ Cost & ROI – Cost breakdown, savings, payback analysis
+5️⃣ Regulations – Compliance, certifications, safety
+6️⃣ Market Trends – Growth, adoption, price trends
+
+Usage
+Images are organized by category
+High-res versions available for detailed analysis
+Updated quarterly for accuracy
+Supports AI responses with internal documentation
